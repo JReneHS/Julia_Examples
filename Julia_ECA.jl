@@ -14,7 +14,7 @@ const a4_f3_1 = "11111000100110100110011001100110"
 const a4_f2_1 = "11111000111000100110011001100110"
 const a4_f1_1 = "111110110110110"
 
-const g_gun_collitions = d1_c_f3_1 * ether * c1_a_f1_1
+const g_gun_collitions = d1_c_f3_1 * ether * c1_a_f1_1 * ether * em_b_f1_1
 
 # e*-A^4(f3_1)-13e-A^4(f2_1)-13e-
 # -A^4(f1_1)-e-[E-](B,f1_1)-e-[E-](D,f3_1)-2e-
